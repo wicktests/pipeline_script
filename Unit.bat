@@ -1,0 +1,1 @@
+echo 'Unit testing the project : %date% : %time%'
